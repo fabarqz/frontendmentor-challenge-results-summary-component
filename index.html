@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Frontend Mentor | Results summary component</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="scorehalf">
+        <h1 class="title margin">Your Result</h1>
+        <div class="scorecircle margin">
+          <p class="result-score"><span>76</span> of 100</p>
+        </div>
+        <div class="margin">
+          <p class="rank">Great</p>
+          <p class="remark">
+            You scored higher than 65% of the people who have taken these tests.
+          </p>
+        </div>
+      </div>
+      <div class="summaryhalf">
+        <h2>Summary</h2>
+        <div class="stat reaction">
+          <div>
+            <img
+              class="icon reaction"
+              src="./assets/images/icon-reaction.svg"
+              alt=""
+            />
+            <p class="label reaction">Reaction</p>
+          </div>
+          <p class="score reaction">80/100</p>
+        </div>
+        <div class="stat memory">
+          <div>
+            <img
+              class="icon memory"
+              src="./assets/images/icon-memory.svg"
+              alt=""
+            />
+            <p class="label memory">Memory</p>
+          </div>
+          <p class="score memory">92/100</p>
+        </div>
+        <div class="stat verbal">
+          <div>
+            <img
+              class="icon verbal"
+              src="./assets/images/icon-verbal.svg"
+              alt=""
+            />
+            <p class="label verbal">Verbal</p>
+          </div>
+          <p class="score verbal">61/100</p>
+        </div>
+        <div class="stat visual">
+          <div>
+            <img
+              class="icon visual"
+              src="./assets/images/icon-visual.svg"
+              alt=""
+            />
+            <p class="label visual">Visual</p>
+          </div>
+          <p class="score visual">72/100</p>
+        </div>
+        <button class="continue">Continue</button>
+      </div>
+    </div>
+
+    <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Your Name Here</a>.
+    </footer>
+  </body>
+</html>
