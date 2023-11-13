@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/fabarqz/frontendmentor-challenge-results-summary-component))
-- Live Site URL: [Add live site URL here](https://fabarqz.github.io/frontendmentor-challenge-results-summary-component/)
+- Solution URL: [https://github.com/fabarqz/frontendmentor-challenge-results-summary-component](https://github.com/fabarqz/frontendmentor-challenge-results-summary-component))
+- Live Site URL: [https://fabarqz.github.io/frontendmentor-challenge-results-summary-component/](https://fabarqz.github.io/frontendmentor-challenge-results-summary-component/)
 
 ## My process
 
