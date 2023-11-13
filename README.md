@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/fabarqz/frontendmentor-challenge-results-summary-component))
 - Live Site URL: [Add live site URL here](https://fabarqz.github.io/frontendmentor-challenge-results-summary-component/)
 
 ## My process
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/fabarqz)
+- Frontend Mentor - [@fabarqz](https://www.frontendmentor.io/profile/fabarqz)
